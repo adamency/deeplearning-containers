@@ -18,7 +18,7 @@ sudo docker build -t ${IMAGE} .
 sudo docker run --rm -it -p 8888:8888 --name ${IMAGE}_container ${IMAGE}
 ```
 
-# If image uses CUDA, run with `nvidia-docker` instead:
+##### If image uses CUDA, run with `nvidia-docker` instead:
 
 
 ```
