@@ -1,3 +1,9 @@
+## Donations
+
+Hello, I work on this project to help you make safe-hosted deep learning solutions easily.
+
+If my work helped you, please consider chipping in at: https://www.patreon.com/adamency
+
 # deeplearning-containers
 
 ## Choose an image.
